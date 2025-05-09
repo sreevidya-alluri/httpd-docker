@@ -11,3 +11,4 @@ steps:
 6. Do curl http://localhost:80 to check its connectivity in local and with -I to check its status 
 7. Allow firewall rule on 8085 port to view the output from bastion host
 8. And go to http://34.93.82.177:8085/ to check the webpage of httpd. 
+![image](https://github.com/user-attachments/assets/ebc6bf8f-b145-45fc-8536-7bb43c6f83b3)
