@@ -27,3 +27,4 @@ steps:
    and then add the page to /var/www/html and do apachectl restart 
 6. allow firewall rule on 8087 in gcp for bastion host and then try the curl command again then it works. 
 
+recent:///7d55e3048cec11a055b91a266828c283
